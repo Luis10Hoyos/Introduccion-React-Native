@@ -1,3 +1,35 @@
 Introducción React Native
 
 Javascript
+
+*************************
+
+// Variables - let 
+
+let cliente = "Juan"
+let precioDescuento = 220 // camelCase
+
+// Re asignar
+cliente = 20
+cliente = true
+
+// Pueden iniciar sin un valor
+let precio
+
+precio = 1000
+
+*************************
+
+// Variables - const
+
+const cliente = "Juan"
+const precioDescuento = 220 
+
+// No se puede re asignar
+cliente = "Pablo"
+
+// No pueden iniciar sin valor
+// const precio
+
+*************************
+
