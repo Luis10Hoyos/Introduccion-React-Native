@@ -4,3 +4,7 @@ Como crear un proyecto nuevo
 
 PowerShell
 C:/Proyectos/
+
+npx react-native init NombreProyecto
+
+
